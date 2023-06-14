@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
